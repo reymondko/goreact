@@ -28,6 +28,8 @@
 
 3. Open `http://localhost:8000` in your browser
 
-login using credenctials:
+login using credentials:
+
 username: admin@mail.com
+
 password: password
