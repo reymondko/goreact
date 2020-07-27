@@ -27,6 +27,7 @@
 `$ php artisan serve`
 
 3. Open `http://localhost:8000` in your browser
+
 login using credenctials:
 username: admin@mail.com
 password: password
