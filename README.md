@@ -8,9 +8,9 @@
 
 `$ cp .env.example .env`
 
-`$ php artisan key:generate`  Generate key since this is a cloned project
-
 `$ composer install`  Install required packages
+
+`$ php artisan key:generate`  Generate key since this is a cloned project
 
 `$ php artisan migrate` Run database migrations
 
